@@ -25,8 +25,7 @@ EasyPlayer.js H5播放器，是一款能够同时支持HTTP、HTTP-FLV、HLS（m
 - [x] 支持 超时、断网重连、异常暂停播放等;
 
 ## 案例演示
-[演示地址][1] 
-[1]: https://www.tsingsee.com/easyplayer/
+演示地址: https://www.easydarwin.org/easyplayer.js/index.html
 
 ## 配置属性
 
@@ -135,21 +134,3 @@ const base64 = EasyPlayerPro.screenshot("test", "png", 0.5, 'base64')
 ## 更多流媒体音视频资源
 
 EasyDarwin开源流媒体服务器：<a href="http://www.easydarwin.org" target="_blank" title="EasyDarwin开源流媒体服务器">www.EasyDarwin.org</a>
-
-EasyDSS高性能互联网直播服务：<a href="http://www.easydss.com" target="_blank" title="EasyDSS高性能互联网直播服务">www.EasyDSS.com</a>
-
-EasyNVR安防视频可视化服务：<a href="http://www.easynvr.com" target="_blank" title="EasyNVR安防视频可视化服务">www.EasyNVR.com</a>
-
-EasyNVS视频综合管理平台：<a href="http://www.easynvs.com" target="_blank" title="EasyNVS视频综合管理平台">www.EasyNVS.com</a>
-
-EasyNTS云组网：<a href="http://www.easynts.com" target="_blank" title="EasyNTS云组网">www.EasyNTS.com</a>
-
-EasyGBS国标GB/T28181服务器：<a href="http://www.easygbs.com" target="_blank" title="EasyGBS国标GB/T28181视频服务器">www.EasyGBS.com</a>
-
-EasyRTS应急指挥平台：<a href="http://www.easyrts.com" target="_blank" title="EasyRTS应急指挥平台">www.EasyRTS.com</a>
-
-TSINGSEE青犀开放平台：<a href="http://open.tsingsee.com" target="_blank" title="TSINGSEE青犀开放平台">open.TSINGSEE.com</a>
-
-Copyright © <a href="http://www.tsingsee.com" target="_blank" title="青犀TSINGSEE">www.TSINGSEE.com</a> Team 2012-2024
-
-![青犀TSINGSEE](https://www.tsingsee.com/_nuxt/img/TSINGSEE.c72f9d0.jpg)
